@@ -1,1 +1,1 @@
-progate学習用のリポジトリです。
+progate学習用
